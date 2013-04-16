@@ -1,628 +1,952 @@
 {
-  "Abstract-expressionisme ": {
-    " Action-painting": {
-      "periode": "1943-55",
-      "style": " "
+    "Abstract-expressionisme ":{
+        " Action-painting":{
+            "periode":"1943-55",
+            "style":" "
+        },
+        "Art-Informel":{
+            "periode":"1943-1960",
+            "style":" "
+        },
+        "Colourfield Painting":{
+            "periode":"1943-55",
+            "style":" "
+        },
+        "Dripping Gestural Painting":{
+            "periode":"1943-55",
+            "style":" "
+        },
+        "Gruppe 53":{
+            "periode":"1949",
+            "style":" "
+        },
+        "Movimento Arte Nucleare":{
+            "periode":"1951",
+            "style":" "
+        },
+        "New York School":{
+            "periode":"1943-55",
+            "style":" "
+        },
+        "Quadriga-groep":{
+            "periode":"1949",
+            "style":" "
+        },
+        "Tachisme":{
+            "periode":"1943-1960",
+            "style":" "
+        },
+        "Zen-groep":{
+            "periode":"1949",
+            "style":" "
+        },
+        "periode":"1940",
+        "style":" "
     },
-    "Art-Informel": {
-      "periode": "1943-1960",
-      "style": " "
+    "Abstracte-kunst, abstracte-schilderkunst":{
+        "periode":" ",
+        "style":" "
     },
-    "Colourfield Painting": {
-      "periode": "1943-55",
-      "style": " "
+    "Abstraction-creation":{
+        "periode":"1931",
+        "style":" "
     },
-    "Dripping Gestural Painting": {
-      "periode": "1943-55",
-      "style": " "
+    "Angelsaksische-kunst":{
+        "periode":"7de eeuw",
+        "style":" "
     },
-    "Gruppe 53": {
-      "periode": "1949",
-      "style": " "
+    "Animisme":{
+        "periode":" ",
+        "style":" "
     },
-    "Movimento Arte Nucleare": {
-      "periode": "1951",
-      "style": " "
+    "Appropriation-art (pictures-generation)":{
+        "periode":"1980",
+        "style":" "
     },
-    "Nederlandse-Informele-Groep informele-kunst, materieschilderkunst": {
-      "periode": " ",
-      "style": " "
+    "Art & Language":{
+        "periode":"1969",
+        "style":" "
     },
-    "New York School": {
-      "periode": "1943-55",
-      "style": " "
+    "Art deco":{
+        "periode":" ",
+        "style":" "
     },
-    "Quadriga-groep": {
-      "periode": "1949",
-      "style": " "
+    "Art-Brut, Outsider-Art":{
+        "periode":" ",
+        "style":" "
     },
-    "Tachisme": {
-      "periode": "1943-1960",
-      "style": " "
+    "Art-Deco, amsterdamse-school":{
+        "periode":"1914-1940",
+        "style":" "
     },
-    "Zen-groep": {
-      "periode": "1949",
-      "style": " "
+    "Arte povera":{
+        "periode":" ",
+        "style":" "
     },
-    "periode": "1940",
-    "style": " "
-  },
-  "Abstracte-kunst, abstracte-schilderkunst": {
-    "periode": " ",
-    "style": " "
-  },
-  "Abstraction-creation": {
-    "periode": "1931",
-    "style": " "
-  },
-  "Angelsaksische-kunst": {
-    "periode": "7de eeuw",
-    "style": " "
-  },
-  "Appropriation-art (pictures-generation)": {
-    "periode": "1980",
-    "style": " "
-  },
-  "Art & Language": {
-    "periode": "1969",
-    "style": " "
-  },
-  "Art-Brut, Outsider-Art": {
-    "periode": " ",
-    "style": " "
-  },
-  "Art-Deco, amsterdamse-school": {
-    "periode": "1914-1940",
-    "style": " "
-  },
-  "Arte-povera": {
-    "periode": "1965",
-    "style": " "
-  },
-  "Arts and Crafts": {
-    "periode": "1875",
-    "style": " "
-  },
-  "Ash can School, Black gang, Black Revolutionists": {
-    "periode": "1930",
-    "style": " "
-  },
-  "Assemblage & Environment": {
-    "periode": "1953",
-    "style": " "
-  },
-  "Astratta e concreta": {
-    "periode": "1947",
-    "style": " "
-  },
-  "Barbizon": {
-    "periode": " ",
-    "style": " "
-  },
-  "Barok Classicisme De Gouden Eeuw": {
-    "periode": "1600 - 1700",
-    "style": " "
-  },
-  "Bauhaus": {
-    "periode": "1919-1934",
-    "style": " "
-  },
-  "Biedermeier": {
-    "periode": "1815-1850",
-    "style": " "
-  },
-  "Brit-Art": {
-    "periode": "1990",
-    "style": " "
-  },
-  "Byzantijnse-kunst": {
-    "periode": "400-1400",
-    "style": " "
-  },
-  "Camden-Towngroep": {
-    "periode": "1911",
-    "style": " "
-  },
-  "Camp": {
-    "periode": " ",
-    "style": " "
-  },
-  "Cercle et Carré, Geometrische abstractie": {
-    "periode": " ",
-    "style": " "
-  },
-  "Concept-art": {
-    "periode": "1965",
-    "style": " "
-  },
-  "Dada": {
-    "periode": "1916-1922",
-    "style": " "
-  },
-  "Donau-school": {
-    "periode": "1500",
-    "style": " "
-  },
-  "Ecole de paris": {
-    "periode": " ",
-    "style": " "
-  },
-  "Essential painting": {
-    "periode": " ",
-    "style": " "
-  },
-  "Existentialisme": {
-    "periode": " ",
-    "style": " "
-  },
-  "Expressionisme, der-sturm": {
-    "periode": "1902-1925",
-    "style": " "
-  },
-  "Fauvisme": {
-    "periode": "1898-1910",
-    "style": " "
-  },
-  "Fenomenologische-realisme": {
-    "periode": " ",
-    "style": " "
-  },
-  "Figuration-Libre": {
-    "periode": "1980",
-    "style": " "
-  },
-  "Fluxus": {
-    "periode": "1960",
-    "style": " "
-  },
-  "Fotorealisme Hyperrealisme": {
-    "periode": "1969",
-    "style": " "
-  },
-  "Fundamentele schilderkunst": {
-    "periode": " ",
-    "style": " "
-  },
-  "Futurisme, rayonisme": {
-    "periode": "1908-1918",
-    "style": " "
-  },
-  "GRAV": {
-    "periode": "1958",
-    "style": " "
-  },
-  "Gotiek": {
-    "Perpendicular-style": {
-      "periode": "1375",
-      "style": " "
+    "Arte-povera":{
+        "periode":"1965",
+        "style":" "
     },
-    "periode": "1150 - 1450",
-    "style": " "
-  },
-  "Graffiti": {
-    "periode": "1980",
-    "style": " "
-  },
-  "Griekse-kunst": {
-    "Archaïsche periode": {
-      "periode": "tot 480 v.Chr",
-      "style": " "
+    "Arts and Crafts":{
+        "periode":"1875",
+        "style":" "
     },
-    "Hellenistische periode": {
-      "periode": "400 v.Chr. tot Romeinse tijd",
-      "style": " "
+    "Ash can School, Black gang, Black Revolutionists":{
+        "periode":"1930",
+        "style":" "
     },
-    "Klassieke periode": {
-      "periode": "480 - 400 v.Chr",
-      "style": " "
+    "Assemblage & Environment":{
+        "periode":"1953",
+        "style":" "
     },
-    "periode": "1000 - 200 v.Chr",
-    "style": " "
-  },
-  "Grupo Espacio": {
-    "periode": " ",
-    "style": " "
-  },
-  "Gruppo T": {
-    "periode": "1959",
-    "style": " "
-  },
-  "Gutai": {
-    "periode": "1954",
-    "style": " "
-  },
-  "Happening": {
-    "periode": " ",
-    "style": " "
-  },
-  "Hard-Edge": {
-    "periode": " ",
-    "style": " "
-  },
-  "Impressionisme": {
-    "periode": "1874",
-    "style": " "
-  },
-  "Independent-group": {
-    "periode": "1952",
-    "style": " "
-  },
-  "Internationale stijl": {
-    "periode": " ",
-    "style": " "
-  },
-  "Islamitische-kunst": {
-    "periode": "700",
-    "style": " "
-  },
-  "Japonisme": {
-    "periode": "1865",
-    "style": " "
-  },
-  "Jugendstil art-nouveau Modern-Style Liberty-Style Sezession": {
-    "periode": "1890-1910",
-    "style": " "
-  },
-  "Junk Art": {
-    "periode": " ",
-    "style": " "
-  },
-  "Karolingische-kunst": {
-    "periode": " ",
-    "style": " "
-  },
-  "Kinetisme": {
-    "periode": "1955",
-    "style": " "
-  },
-  "Kitch": {
-    "periode": " ",
-    "style": " "
-  },
-  "Koptische-kunst": {
-    "periode": "300 - 900",
-    "style": " "
-  },
-  "Kubisme": {
-    "periode": "1908-1920",
-    "style": " "
-  },
-  "Kubo-futurisme": {
-    "periode": "1911-1913",
-    "style": " "
-  },
-  "Land-art": {
-    "periode": "1965",
-    "style": " "
-  },
-  "Latemse-school": {
-    "periode": "1900",
-    "style": " "
-  },
-  "Magisch-realisme": {
-    "periode": "1925",
-    "style": " "
-  },
-  "Memphis": {
-    "periode": " ",
-    "style": " "
-  },
-  "Merovingische-kunst": {
-    "periode": "400-750",
-    "style": " "
-  },
-  "Middeleeuwse kunst": {
-    "periode": "6de-15de eeuw nC",
-    "style": " "
-  },
-  "Minimal-Art": {
-    "periode": "1960",
-    "style": " "
-  },
-  "Muhlheimer-freiheit": {
-    "periode": " ",
-    "style": " "
-  },
-  "Multimediakunst": {
-    "periode": " ",
-    "style": " "
-  },
-  "Nabis": {
-    "periode": "1880-1895",
-    "style": " "
-  },
-  "Naieve schilderkunst": {
-    "periode": "1885",
-    "style": " "
-  },
-  "Nationaal Socialistisch realisme": {
-    "periode": "1933-1945",
-    "style": " "
-  },
-  "Nazareners": {
-    "periode": "1810",
-    "style": " "
-  },
-  "Nederlandse-experimentele-groep": {
-    "Cobra": {
-      "periode": "1948-1955",
-      "style": " "
+    "Astratta e concreta":{
+        "periode":"1947",
+        "style":" "
     },
-    "periode": "1948",
-    "style": " "
-  },
-  "Neo-constructivisme": {
-    "periode": " ",
-    "style": " "
-  },
-  "Neo-expressionisme": {
-    "periode": " ",
-    "style": " "
-  },
-  "Neo-impressionisme pointillisme divisionisme luminisme": {
-    "periode": " ",
-    "style": " "
-  },
-  "Neo-pop": {
-    "periode": " ",
-    "style": " "
-  },
-  "Neoclassicisme": {
-    "periode": "1760-1810",
-    "style": " "
-  },
-  "Neue Sachlichkeit": {
-    "periode": "1925-1935",
-    "style": " "
-  },
-  "New British Sculpture": {
-    "periode": " ",
-    "style": " "
-  },
-  "New British Sculpture Group": {
-    "periode": " ",
-    "style": " "
-  },
-  "New Neoconceptuele-kunst (postconceptuele-kunst)": {
-    "periode": "1980",
-    "style": " "
-  },
-  "New-Abstraction": {
-    "periode": " ",
-    "style": " "
-  },
-  "New-Image-Painting": {
-    "periode": "1975",
-    "style": " "
-  },
-  "Nieuwe-figuratie": {
-    "periode": "1966",
-    "style": " "
-  },
-  "Nouveau-realisme": {
-    "periode": "1956-1976",
-    "style": " "
-  },
-  "Nouvelle Tendance": {
-    "periode": " ",
-    "style": " "
-  },
-  "Nul-groep": {
-    "periode": "1960",
-    "style": " "
-  },
-  "Oostgotische-kunst": {
-    "periode": "500",
-    "style": " "
-  },
-  "Opart": {
-    "periode": "1955",
-    "style": " "
-  },
-  "Ottoonse-kunst": {
-    "periode": "950 - 1050",
-    "style": " "
-  },
-  "Oudheid": {
-    "Azteekse-kunst": {
-      "periode": "1000 vC - 1500 nC",
-      "style": " "
+    "Avant garde":{
+        "periode":" ",
+        "style":" "
     },
-    "Egyptische-kunst": {
-      "periode": "4000 - 500 vC",
-      "style": " "
+    "Barok De Gouden Eeuw":{
+        "Absolutisme":{
+            "periode":" ",
+            "style":" "
+        },
+        "Academisme":{
+            "periode":" ",
+            "style":" "
+        },
+        "Allegorisme":{
+            "periode":" ",
+            "style":" "
+        },
+        "Barok-classicisme":{
+            "periode":" ",
+            "style":" "
+        },
+        "Caravaggisme":{
+            "periode":" ",
+            "style":" "
+        },
+        "Emotionalisme":{
+            "periode":" ",
+            "style":" "
+        },
+        "Gesturalisme":{
+            "periode":" ",
+            "style":" "
+        },
+        "Italianisanten":{
+            "periode":" ",
+            "style":" "
+        },
+        "Neoclassicisme":{
+            "periode":"1760-1810",
+            "style":" "
+        },
+        "Piëtisme":{
+            "periode":" ",
+            "style":" "
+        },
+        "Rococo":{
+            "periode":"1710 - 1770",
+            "style":" "
+        },
+        "Régence":{
+            "periode":" ",
+            "style":" "
+        },
+        "Sektarisme":{
+            "periode":" ",
+            "style":" "
+        },
+        "periode":"1600 - 1700",
+        "style":" "
     },
-    "Kretenzische-kunst minoische-kunst": {
-      "periode": "3000 vC 1000 nC",
-      "style": " "
+    "Bauhaus":{
+        "periode":"1919-1934",
+        "style":" "
     },
-    "Mesopotamische-kunst assyrische-kunst babylonische-kunst": {
-      "periode": "4000 - 500 vC",
-      "style": " "
+    "Biedermeier":{
+        "periode":"1815-1850",
+        "style":" "
     },
-    "Myceense-kunst": {
-      "periode": "1600 vC - 1100 vC",
-      "style": " "
+    "Bio-morfische schilderkunst":{
+        "periode":" ",
+        "style":" "
     },
-    "Prehistorische kunst, paleolithische-kunst (ijstijdkunst)": {
-      "periode": "60.000-30.000-15.000 vC",
-      "style": " "
+    "Body-art":{
+        "periode":"1965",
+        "style":" "
     },
-    "Scythische-kunst": {
-      "periode": "600 vC",
-      "style": " "
+    "Brit-Art":{
+        "periode":"1990",
+        "style":" "
+    },
+    "Business-art":{
+        "periode":" ",
+        "style":" "
+    },
+    "Byzantijnse-kunst":{
+        "periode":"400-1400",
+        "style":" "
+    },
+    "Camden-Towngroep":{
+        "periode":"1911",
+        "style":" "
+    },
+    "Camp":{
+        "periode":" ",
+        "style":" "
+    },
+    "Cercle et Carré, Geometrische abstractie":{
+        "periode":" ",
+        "style":" "
+    },
+    "Concept-art":{
+        "periode":"1965",
+        "style":" "
+    },
+    "Conceptual art":{
+        "periode":" ",
+        "style":" "
+    },
+    "Cranbrook Colony":{
+        "periode":" ",
+        "style":" "
+    },
+    "Dadaïsme (Dada)":{
+        "periode":"1916-1922",
+        "style":" "
+    },
+    "Decadentisme":{
+        "periode":" ",
+        "style":" "
+    },
+    "Digitale kunst":{
+        "periode":" ",
+        "style":" "
+    },
+    "Divisionisme":{
+        "periode":" ",
+        "style":" "
+    },
+    "Donau-school":{
+        "periode":"1500",
+        "style":" "
+    },
+    "Eclecticisme":{
+        "periode":" ",
+        "style":" "
+    },
+    "Ecole de paris":{
+        "periode":" ",
+        "style":" "
+    },
+    "Empire":{
+        "periode":" ",
+        "style":" "
+    },
+    "Essential painting":{
+        "periode":" ",
+        "style":" "
+    },
+    "Estheticisme":{
+        "periode":" ",
+        "style":" "
+    },
+    "Existentialisme":{
+        "periode":" ",
+        "style":" "
+    },
+    "Expressionisme, der-sturm":{
+        "periode":"1902-1925",
+        "style":" "
+    },
+    "Fenomenologische-realisme":{
+        "periode":" ",
+        "style":" "
+    },
+    "Figuration-Libre":{
+        "periode":"1980",
+        "style":" "
+    },
+    "Fluxus":{
+        "periode":"1960",
+        "style":" "
+    },
+    "Fotorealisme Hyperrealisme":{
+        "periode":"1969",
+        "style":" "
+    },
+    "Fundamentele kunst":{
+        "periode":" ",
+        "style":" "
+    },
+    "Fundamentele schilderkunst":{
+        "periode":" ",
+        "style":" "
+    },
+    "GRAV":{
+        "periode":"1958",
+        "style":" "
+    },
+    "Gotiek":{
+        "Flamboyante gotiek":{
+            "periode":"1450-1550",
+            "style":" "
+        },
+        "Internationale Gotiek (architectuur)":{
+            "periode":"1350-1450",
+            "style":" "
+        },
+        "Perpendicular-style":{
+            "periode":"1375",
+            "style":" "
+        },
+        "Rayonnante Gotiek (Hooggotiek)":{
+            "periode":"1200-1350",
+            "style":" "
+        },
+        "Vroeg Gotiek":{
+            "periode":"1122-1200",
+            "style":" "
+        },
+        "periode":"1150 - 1450",
+        "style":" "
+    },
+    "Graffiti":{
+        "periode":"1980",
+        "style":" "
+    },
+    "Griekse-kunst":{
+        "Archaïsche periode":{
+            "periode":"tot 480 v.Chr",
+            "style":" "
+        },
+        "Hellenistische periode":{
+            "periode":"400 v.Chr. tot Romeinse tijd",
+            "style":" "
+        },
+        "Klassieke periode":{
+            "periode":"480 - 400 v.Chr",
+            "style":" "
+        },
+        "periode":"1000 - 200 v.Chr",
+        "style":" "
+    },
+    "Grupo Espacio":{
+        "periode":" ",
+        "style":" "
+    },
+    "Gruppo T":{
+        "periode":"1959",
+        "style":" "
+    },
+    "Gutai":{
+        "periode":"1954",
+        "style":" "
+    },
+    "Happening":{
+        "periode":" ",
+        "style":" "
+    },
+    "Hard-Edge":{
+        "periode":" ",
+        "style":" "
+    },
+    "Impressionisme":{
+        "periode":"1874",
+        "style":" "
+    },
+    "Independent-group":{
+        "periode":"1952",
+        "style":" "
+    },
+    "Internationale stijl":{
+        "periode":" ",
+        "style":" "
+    },
+    "Islamitische-kunst":{
+        "periode":"700",
+        "style":" "
+    },
+    "Japonisme":{
+        "periode":"1865",
+        "style":" "
+    },
+    "Jugendstil art-nouveau Modern-Style Liberty-Style":{
+        "periode":"1890-1910",
+        "style":" "
+    },
+    "Junk Art":{
+        "periode":" ",
+        "style":" "
+    },
+    "Kapitalistisch realisme":{
+        "periode":" ",
+        "style":" "
+    },
+    "Karolingische Renaissance":{
+        "periode":" ",
+        "style":" "
+    },
+    "Keltische kunst":{
+        "periode":" ",
+        "style":" "
+    },
+    "Kinetisme":{
+        "periode":"1955",
+        "style":" "
+    },
+    "Kitch":{
+        "periode":" ",
+        "style":" "
+    },
+    "Koptische-kunst":{
+        "periode":"300 - 900",
+        "style":" "
+    },
+    "Land-Art":{
+        "periode":"1965",
+        "style":" "
+    },
+    "Latemse-school":{
+        "periode":"1900",
+        "style":" "
+    },
+    "Line-Art":{
+        "periode":" ",
+        "style":" "
+    },
+    "Luminisme":{
+        "periode":" ",
+        "style":" "
+    },
+    "Magisch-realisme":{
+        "periode":"1925",
+        "style":" "
+    },
+    "Mail-Art":{
+        "periode":" ",
+        "style":" "
+    },
+    "Materialisme":{
+        "periode":" ",
+        "style":" "
+    },
+    "Mediëvalisme":{
+        "periode":" ",
+        "style":" "
+    },
+    "Memphis":{
+        "periode":" ",
+        "style":" "
+    },
+    "Merovingische-kunst":{
+        "periode":"400-750",
+        "style":" "
+    },
+    "Middeleeuwse kunst":{
+        "periode":"6de-15de eeuw nC",
+        "style":" "
+    },
+    "Minimal-Art":{
+        "periode":"1960",
+        "style":" "
+    },
+    "Modernisme":{
+        "Abstract-impressionisme":{
+            "periode":" ",
+            "style":" "
+        },
+        "Constructivisme":{
+            "periode":"1913-1920",
+            "style":" "
+        },
+        "Fauvisme":{
+            "periode":"1898-1910",
+            "style":" "
+        },
+        "Futurisme, rayonisme":{
+            "Kubo-futurisme":{
+                "periode":"1911-1913",
+                "style":" "
+            },
+            "periode":"1908-1918",
+            "style":" "
+        },
+        "Kubisme":{
+            "periode":"1908-1920",
+            "style":" "
+        },
+        "Moderne kunst":{
+            "periode":" ",
+            "style":" "
+        },
+        "Modernisme":{
+            "periode":" ",
+            "style":" "
+        },
+        "Nederlandse-Informele-Groep informele-kunst, materieschilderkunst":{
+            "periode":" ",
+            "style":" "
+        },
+        "Nederlandse-experimentele-groep":{
+            "Cobra":{
+                "periode":"1948-1955",
+                "style":" "
+            },
+            "periode":"1948",
+            "style":" "
+        },
+        "Neo-plasticisme":{
+            "periode":" ",
+            "style":" "
+        },
+        "Plasticisme":{
+            "periode":" ",
+            "style":" "
+        },
+        "Primitivisme":{
+            "periode":" ",
+            "style":" "
+        },
+        "Sociaal-realisme":{
+            "periode":" ",
+            "style":" "
+        },
+        "Spatialisme":{
+            "periode":" ",
+            "style":" "
+        },
+        "Suprematisme":{
+            "periode":"1913-1920",
+            "style":" "
+        },
+        "Surrealisme":{
+            "periode":"1920-1946",
+            "style":" "
+        },
+        "periode":" ",
+        "style":" "
+    },
+    "Muhlheimer-freiheit":{
+        "periode":" ",
+        "style":" "
+    },
+    "Multimediakunst":{
+        "periode":" ",
+        "style":" "
+    },
+    "Nabis":{
+        "periode":"1880-1895",
+        "style":" "
+    },
+    "Nationaal Socialistisch realisme":{
+        "periode":"1933-1945",
+        "style":" "
+    },
+    "Nazareners":{
+        "periode":"1810",
+        "style":" "
+    },
+    "Naïeve schilderkunst":{
+        "periode":"1885",
+        "style":" "
+    },
+    "Neo-abstractionisme":{
+        "periode":"1985",
+        "style":" "
+    },
+    "Neo-constructivisme":{
+        "periode":" ",
+        "style":" "
+    },
+    "Neo-expressionisme":{
+        "periode":" ",
+        "style":" "
+    },
+    "Neo-geo":{
+        "periode":"1985",
+        "style":" "
+    },
+    "Neo-impressionisme":{
+        "periode":" ",
+        "style":" "
+    },
+    "Neo-pop":{
+        "periode":" ",
+        "style":" "
+    },
+    "Neogotiek":{
+        "periode":" ",
+        "style":" "
+    },
+    "Neorenaissance":{
+        "periode":" ",
+        "style":" "
+    },
+    "Nervia":{
+        "periode":" ",
+        "style":" "
+    },
+    "Neue Sachlichkeit":{
+        "periode":"1925-1935",
+        "style":" "
+    },
+    "Neue-wilden":{
+        "periode":" ",
+        "style":" "
+    },
+    "New British Sculpture":{
+        "periode":" ",
+        "style":" "
+    },
+    "New British Sculpture Group":{
+        "periode":" ",
+        "style":" "
+    },
+    "New Neoconceptuele-kunst (postconceptuele-kunst)":{
+        "periode":"1980",
+        "style":" "
+    },
+    "New-Abstraction":{
+        "periode":" ",
+        "style":" "
+    },
+    "New-Image-Painting":{
+        "periode":"1975",
+        "style":" "
+    },
+    "Nieuw realisme":{
+        "periode":" ",
+        "style":" "
+    },
+    "Nieuwe figuratie":{
+        "periode":" ",
+        "style":" "
+    },
+    "Nieuwe zakelijkheid":{
+        "periode":" ",
+        "style":" "
+    },
+    "Nieuwe-figuratie":{
+        "periode":"1966",
+        "style":" "
+    },
+    "Nieuwe-wilden":{
+        "periode":" ",
+        "style":" "
+    },
+    "Noordelijk realisme":{
+        "periode":" ",
+        "style":" "
+    },
+    "Nouveau-realisme":{
+        "periode":"1956-1976",
+        "style":" "
+    },
+    "Nouvelle Tendance":{
+        "periode":" ",
+        "style":" "
+    },
+    "Nul-groep":{
+        "periode":"1960",
+        "style":" "
+    },
+    "Onafhankelijk realisme":{
+        "periode":" ",
+        "style":" "
+    },
+    "Oostgotische-kunst":{
+        "periode":"500",
+        "style":" "
+    },
+    "Opart":{
+        "periode":"1955",
+        "style":" "
+    },
+    "Oriëntalisme":{
+        "periode":" ",
+        "style":" "
+    },
+    "Ottomaanse kunst":{
+        "periode":" ",
+        "style":" "
+    },
+    "Ottoonse-kunst":{
+        "periode":"950 - 1050",
+        "style":" "
+    },
+    "Oudheid":{
+        "Azteekse-kunst":{
+            "periode":"1000 vC - 1500 nC",
+            "style":" "
+        },
+        "Egyptische-kunst":{
+            "periode":"4000 - 500 vC",
+            "style":" "
+        },
+        "Kretenzische-kunst minoische-kunst":{
+            "periode":"3000 vC 1000 nC",
+            "style":" "
+        },
+        "Mesopotamische-kunst assyrische-kunst babylonische-kunst":{
+            "periode":"4000 - 500 vC",
+            "style":" "
+        },
+        "Myceense-kunst":{
+            "periode":"1600 vC - 1100 vC",
+            "style":" "
+        },
+        "Prehistorische kunst, paleolithische-kunst (ijstijdkunst)":{
+            "periode":"60.000-30.000-15.000 vC",
+            "style":" "
+        },
+        "Scythische-kunst":{
+            "periode":"600 vC",
+            "style":" "
+        }
+    },
+    "Pattern and decoration":{
+        "periode":" ",
+        "style":" "
+    },
+    "Performance":{
+        "periode":"1965",
+        "style":" "
+    },
+    "Pittura pittura":{
+        "periode":" ",
+        "style":" "
+    },
+    "Pittura-metafysica":{
+        "periode":"1912-1924",
+        "style":" "
+    },
+    "Planetarisme":{
+        "periode":" ",
+        "style":" "
+    },
+    "Pointillisme":{
+        "periode":" ",
+        "style":" "
+    },
+    "Pop-art":{
+        "periode":"1956-1976",
+        "style":" "
+    },
+    "Popart":{
+        "periode":" ",
+        "style":" "
+    },
+    "Post Painterly Abstraction":{
+        "periode":" ",
+        "style":" "
+    },
+    "Post-modernisme":{
+        "Conceptuele kunst":{
+            "periode":" ",
+            "style":" "
+        },
+        "Minimalisme":{
+            "periode":" ",
+            "style":" "
+        },
+        "Neoconceptualisme":{
+            "periode":" ",
+            "style":" "
+        },
+        "Postmodernisme":{
+            "periode":" ",
+            "style":" "
+        },
+        "Sensationalisme":{
+            "periode":" ",
+            "style":" "
+        },
+        "periode":" ",
+        "style":" "
+    },
+    "Postimpressionisme":{
+        "periode":"1885-1905",
+        "style":" "
+    },
+    "Postminimalisme":{
+        "periode":" ",
+        "style":" "
+    },
+    "Prerafaëlieten":{
+        "periode":" ",
+        "style":" "
+    },
+    "Ready made":{
+        "periode":" ",
+        "style":" "
+    },
+    "Realisme":{
+        "periode":"1840-1875",
+        "style":" "
+    },
+    "Renaissance":{
+        "Classicisme":{
+            "periode":" ",
+            "style":" "
+        },
+        "Hoogrenaissance":{
+            "periode":"1480-1525",
+            "style":" "
+        },
+        "Humanisme":{
+            "periode":" ",
+            "style":" "
+        },
+        "Idealisme":{
+            "periode":" ",
+            "style":" "
+        },
+        "Illusionisme":{
+            "periode":" ",
+            "style":" "
+        },
+        "Internationale gotiek (schilderkunst)":{
+            "periode":" ",
+            "style":" "
+        },
+        "Maniërisme (Laat renaissance)":{
+            "periode":"1500",
+            "style":" "
+        },
+        "Monumentalisme":{
+            "periode":" ",
+            "style":" "
+        },
+        "Naturalisme":{
+            "periode":" ",
+            "style":" "
+        },
+        "Noordelijke renaissance":{
+            "periode":" ",
+            "style":" "
+        },
+        "Perspectivisme":{
+            "periode":" ",
+            "style":" "
+        },
+        "Secularisme":{
+            "periode":" ",
+            "style":" "
+        },
+        "Vroegrenaissance":{
+            "periode":"1420-1480",
+            "style":" "
+        },
+        "periode":"1400 - 1500",
+        "style":" "
+    },
+    "Romaanse-kunst":{
+        "periode":"1000 - 1300",
+        "style":" "
+    },
+    "Romantiek":{
+        "periode":"1780-1850",
+        "style":" "
+    },
+    "Romantiek pre-raffaellieten":{
+        "periode":"1850",
+        "style":" "
+    },
+    "Romeinse-kunst":{
+        "periode":"200 v.Chr. - 323 nC",
+        "style":" "
+    },
+    "School van Barbizon":{
+        "periode":" ",
+        "style":" "
+    },
+    "School van St.Martens-Latem":{
+        "periode":"1890-1914",
+        "style":" "
+    },
+    "Secessionisme":{
+        "periode":" ",
+        "style":" "
+    },
+    "Section d'Or":{
+        "periode":"1912-1914",
+        "style":" "
+    },
+    "Sezession":{
+        "periode":" ",
+        "style":" "
+    },
+    "Shaped-Canvas":{
+        "periode":" ",
+        "style":" "
+    },
+    "Silent Art":{
+        "periode":" ",
+        "style":" "
+    },
+    "Situationisme":{
+        "periode":"1958",
+        "style":" "
+    },
+    "Sociaal realisme":{
+        "periode":" ",
+        "style":" "
+    },
+    "Socialistisch-realisme":{
+        "periode":"1934-1990",
+        "style":" "
+    },
+    "Spazialismo":{
+        "periode":"1950",
+        "style":" "
+    },
+    "St. Ives-groep":{
+        "periode":"1940",
+        "style":" "
+    },
+    "Structuralisme (architectuur)":{
+        "periode":" ",
+        "style":" "
+    },
+    "Symbolisme":{
+        "periode":"1886-1910",
+        "style":" "
+    },
+    "Toyisme":{
+        "periode":" ",
+        "style":" "
+    },
+    "Transavanguardia of arte-cifra":{
+        "periode":"1979",
+        "style":" "
+    },
+    "Videokunst":{
+        "periode":"1965",
+        "style":" "
+    },
+    "Vlaamse-primitieven":{
+        "periode":" ",
+        "style":" "
+    },
+    "Vorticisme":{
+        "periode":"1913",
+        "style":" "
+    },
+    "Vroeg christelijke-kunst":{
+        "periode":"200",
+        "style":" "
+    },
+    "Westgotische-kunst":{
+        "periode":"600",
+        "style":" "
+    },
+    "Zero":{
+        "periode":"1957",
+        "style":" "
     }
-  },
-  "Pattern and decoration": {
-    "periode": " ",
-    "style": " "
-  },
-  "Performance body-art": {
-    "periode": "1965",
-    "style": " "
-  },
-  "Pittura pittura": {
-    "periode": " ",
-    "style": " "
-  },
-  "Pittura-metafysica": {
-    "periode": "1912-1924",
-    "style": " "
-  },
-  "Pop-art": {
-    "periode": "1956-1976",
-    "style": " "
-  },
-  "Post Painterly Abstraction": {
-    "periode": " ",
-    "style": " "
-  },
-  "Postimpressionisme": {
-    "periode": "1885-1905",
-    "style": " "
-  },
-  "Postminimalisme": {
-    "periode": " ",
-    "style": " "
-  },
-  "Postmodernisme": {
-    "periode": " ",
-    "style": " "
-  },
-  "Ready made": {
-    "periode": " ",
-    "style": " "
-  },
-  "Realisme": {
-    "periode": "1840-1875",
-    "style": " "
-  },
-  "Renaissance": {
-    "Hoogrenaissance": {
-      "periode": "1480-1525",
-      "style": " "
-    },
-    "Maniërisme (Laat renaissance)": {
-      "periode": "1500",
-      "style": " "
-    },
-    "Vroegrenaissance": {
-      "periode": "1420-1480",
-      "style": " "
-    },
-    "periode": "1400 - 1500",
-    "style": " "
-  },
-  "Rococo": {
-    "periode": "1710 - 1770",
-    "style": " "
-  },
-  "Romaanse-kunst": {
-    "periode": "1000 - 1300",
-    "style": " "
-  },
-  "Romantiek": {
-    "periode": "1780-1850",
-    "style": " "
-  },
-  "Romantiek pre-raffaellieten": {
-    "periode": "1850",
-    "style": " "
-  },
-  "Romeinse-kunst": {
-    "periode": "200 v.Chr. - 323 nC",
-    "style": " "
-  },
-  "School van St.Martens-Latem": {
-    "periode": "1890-1914",
-    "style": " "
-  },
-  "Section d'Or": {
-    "periode": "1912-1914",
-    "style": " "
-  },
-  "Shaped-Canvas": {
-    "periode": " ",
-    "style": " "
-  },
-  "Silent Art": {
-    "periode": " ",
-    "style": " "
-  },
-  "Situationisme": {
-    "periode": "1958",
-    "style": " "
-  },
-  "Socialistisch-realisme": {
-    "periode": "1934-1990",
-    "style": " "
-  },
-  "Spazialismo": {
-    "periode": "1950",
-    "style": " "
-  },
-  "St. Ives-groep": {
-    "periode": "1940",
-    "style": " "
-  },
-  "Structuralisme (architectuur)": {
-    "periode": " ",
-    "style": " "
-  },
-  "Suprematisme Constructivisme.": {
-    "periode": "1913-1920",
-    "style": " "
-  },
-  "Surrealisme": {
-    "periode": "1920-1946",
-    "style": " "
-  },
-  "Symbolisme": {
-    "periode": "1886-1910",
-    "style": " "
-  },
-  "Transavanguardia of arte-cifra": {
-    "periode": "1979",
-    "style": " "
-  },
-  "Videokunst": {
-    "periode": "1965",
-    "style": " "
-  },
-  "Vlaamse-primitieven": {
-    "periode": " ",
-    "style": " "
-  },
-  "Vorticisme": {
-    "periode": "1913",
-    "style": " "
-  },
-  "Vroeg christelijke-kunst": {
-    "periode": "200",
-    "style": " "
-  },
-  "Westgotische-kunst": {
-    "periode": "600",
-    "style": " "
-  },
-  "Zero": {
-    "periode": "1957",
-    "style": " "
-  },
-  "neo-abstractionisme": {
-    "periode": "1985",
-    "style": " "
-  },
-  "neo-geo": {
-    "periode": "1985",
-    "style": " "
-  },
-  "neue-wilden": {
-    "periode": " ",
-    "style": " "
-  },
-  "nieuwe-wilden": {
-    "periode": " ",
-    "style": " "
-  }
 }
